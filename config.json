@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "https://tixiaohanlite4.up.railway.app/$1"}
+  ]
+}
